@@ -16,10 +16,5 @@
 
         -To login as an ADMIN (localhost/everydayNews/admin):
 
-                Username: mushfiq123
+                Username: Sachin
                 Password: admin
-
-        -To login as a NORMAL USER (localhost/everydayNews/admin):
-
-                Username: rahman123
-                Password: 123456
